@@ -2,7 +2,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.master.app/api?username=lingtengqiu&show_icons=true&theme=radical&include_orgs=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingtengqiu&show_icons=false&theme=radical&include_orgs=true)
 
 
 
